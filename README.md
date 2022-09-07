@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TopiMax, newbie in programmation and cybersecurity
 - 💻 Member of DaVinciCode
-- 👀 I’m interested in Cybersecurity, CTFs, Programming and Electronics in general
+- 👀 I’m interested in Cybersecurity, CTFs, Programming and Computers in general
 - 🌱 I’m currently learning C#, Python and more !
 - 📫 How to reach me :
   - Twitter : [@TopiMax_](https://www.twitter.com/@TopiMax_)
